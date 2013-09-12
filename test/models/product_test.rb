@@ -4,7 +4,7 @@ class ProductTest < ActiveSupport::TestCase
   #fixtures :products
   
 	test "Product attributes must not be empty" do
-		product = Product.new
+		product = Product.new()
 		assert product.invalid?
 		assert product.errors[:title].any?
 		assert product.errors[:description].any?
