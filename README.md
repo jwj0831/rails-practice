@@ -5,4 +5,5 @@
 * zero-iter-a: 6장 학습 애플리케이션 생성
 * zero-iter-b: 6장 DB셋팅 완료, 애플리케이션 실행 가능
 * first-iter: 6장 내용을 실습한 것
-* second-iter: 7장 내용을 실습한 것
+* second-iter: 7장 검증 및 테스트
+* third-iter: 8장 애플리케이션 레이아웃
